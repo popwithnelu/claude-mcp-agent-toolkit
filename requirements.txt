@@ -1,0 +1,5 @@
+pytest>=8.0
+# Optional, only needed for live Claude API mode:
+# anthropic>=0.25
+# Optional MCP SDK (the bundled server also runs standalone over stdio):
+# mcp>=1.0
