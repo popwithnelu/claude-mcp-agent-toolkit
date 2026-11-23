@@ -1,0 +1,23 @@
+[
+  {
+    "id": "calc-1",
+    "prompt": "Calculate: 6 * 7",
+    "expected_contains": [
+      "42"
+    ]
+  },
+  {
+    "id": "search-1",
+    "prompt": "Search the documents for MCP",
+    "expected_contains": [
+      "document_search"
+    ]
+  },
+  {
+    "id": "plain-1",
+    "prompt": "Say hello",
+    "expected_contains": [
+      "mock answer"
+    ]
+  }
+]
